@@ -8,7 +8,7 @@
 
 const express = require('express');
 
-const pol = require('./pol.js');
+const pol = require('./src/pol.js');
 
 const app = express();
 
