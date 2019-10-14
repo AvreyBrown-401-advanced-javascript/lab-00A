@@ -13,6 +13,6 @@
  */
 const isAlive = function(dead = false) {
   return !(dead);
-}
+};
 
 module.exports = {isAlive};
